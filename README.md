@@ -14,7 +14,7 @@
 </p>
 
 ## About Me
-* Website @ [zophie.dev](zophie.dev)
+* Website @ [zophie.dev](https://zophie.dev)
 * Stop scrolling. Start eating. @ [nomnomnow](https://nomnomnow-one.vercel.app/)
 * Reach @ [hello.nurfarahana@gmail.com](mailto:hello.nurfarahana@gmail.com)
 * Researching Ensemble Learning for Vehicle Accident Risk Prediction using Simulated IoT Sensor Data
