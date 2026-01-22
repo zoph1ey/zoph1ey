@@ -24,7 +24,7 @@
 
 ### AI, Machine Learning & Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,opencv)](https://skillicons.dev)
 
 **Additional Tool:**
 
@@ -32,11 +32,11 @@
 
 ### Web Development & Deployment
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,supabase,mysql,bun,git,bash,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,supabase,bun,git,bash,vercel)](https://skillicons.dev)
 
 ### Design
 
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 **Additional Tool:**
 
